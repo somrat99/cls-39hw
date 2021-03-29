@@ -1,0 +1,464 @@
+@media all and (max-width:1300px) {
+    .max-width {
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    .email-fouth {
+        width: 47%;
+    }
+}
+@media all and (max-width:1200px) {
+    .banner-bottom-right h1 {
+        font-size: 38px;
+    }
+    .banner-bottom-right p {
+        font-size: 18px;
+        margin-top: 34px;
+        line-height: 27px;
+    }
+    .about-section h3 {
+        font-size: 51px;
+    }
+    .s-content p {
+        font-size: 1rem;
+    }
+    .s-content h3 {
+        font-size: 22px;
+        margin-bottom: 25px;
+    }
+    .s-content p {
+        font-size: 1rem;
+    }
+    .pricing-list span {
+        font-size: 27px;
+    }
+    .pricing-list ul li {
+        font-size: 20px;
+    }
+    .membar-bio h3 {
+        font-size: 23px;
+    }
+    .left {
+        padding: 20px;
+        box-sizing: border-box;
+    }
+    .blog-text img {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .blog-bio {
+        padding: 0;
+    }
+    .right {
+        padding: 20px;
+    }
+    .user-content p {
+        font-size: 24px;
+    }
+    .user-content h3 {
+        font-size: 40px;
+    }
+}
+@media all and (max-width:992px) {
+    .header-section {
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+    .logo {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .logo span {
+        position: relative;
+        top: -16px;
+        line-height:0;
+    }
+    .logo-img img {
+        float: none;
+    }
+    .menu {
+        float: left;
+        width: 80%;
+    }
+    .menu ul {
+        text-align: center;
+    }
+    .menu ul li a {
+        padding: 0 15px;
+        line-height: 45px;
+    }
+    .loginbar a {
+        padding: 8px 23px;
+        margin-top: 8px;
+        font-weight: 700;
+        font-size: 13px;
+        margin-right: 25px;
+    }
+    .banner-section {
+        padding: 175px 0;
+    }
+    .banner-content h2 {
+        font-size: 50px;
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+    .banner-content h3 {
+        font-size: 25px;
+    }
+    .banner-content a {
+        padding: 17px 20px;
+        font-size: 20px;
+    }
+    .banner-bottom-left {
+        float: none;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .banner-bottom-right {
+        float: none;
+        width: 100%;
+    }
+    .banner-bottom-right p {
+        margin-top: 23px;
+    }
+    .about-section {
+        padding: 60px 0;
+    }
+    .about-section h3 {
+        font-size: 40px;
+    }
+    .about-section p {
+        font-size: 21px;
+        padding: 18px 0;
+    }
+    .about-box {
+        width: 48%;
+    }
+    .pricing-head p {
+        font-size: 21px;
+        padding: 20px 0;
+    }
+    .pricing-box {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 35px;
+    }
+    .team-content h2 {
+        font-size: 40px;
+    }
+    .team-membar {
+        width: 48%;
+        margin-bottom: 30px;
+    }
+    .user-content p {
+        font-size: 23px;
+    }
+    .user-content h3 {
+        font-size: 33px;
+    }
+    .user-menu-img img {
+        margin-right: 19px;
+    }
+    .user-menu-img h3 {
+        font-size: 18px;
+    }
+}
+.menu span {
+    display: none;
+}
+@media all and (max-width:768px) {
+    .logo-img img {
+        margin-right: 0;
+    }
+    .menu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .loginbar {
+        float: none;
+        width: 100%;
+        position: absolute;
+        right: 0;
+        top: 56px;
+    }
+    .menu span {
+        font-size: 35px;
+        color: #6278df;
+        cursor: pointer;
+        display: block;
+    }
+    .about-section h3 {
+        font-size: 32px;
+    }
+    .about-section p {
+        font-size: 19px;
+    }
+    .about-box {
+        width: 100%;
+        margin-right: 0;
+    }
+    .pricing-head h3 {
+        font-weight: 400;
+    }
+    .pricing-head p {
+        font-size: 19px;
+    }
+    .team-content h2 {
+        font-size: 29px;
+    }
+    .email {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .news-latter-content p {
+        font-size: 23px;
+        padding-bottom: 34px;
+    }
+    .news-latter-content h3 {
+        font-size: 37px;
+    }
+    .user-item {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+    .map {
+        float: none;
+        width: 100%;
+    }
+    .contact-us {
+        float: none;
+        width: 100%;
+    }
+    .email-fouth {
+        margin-left: 0;
+    }
+    .contact-footer p {
+        font-size: 18px;
+    }
+    iframe {
+        height: 500px;
+    }
+    .contact-footer {
+        margin-top: 40px;
+        padding-top: 30px;
+    }
+}
+@media all and (max-width:576px) {
+    .banner-section {
+        background-attachment: inherit;
+    }
+    .banner-content h3 {
+        font-size: 23px;
+    }
+    .banner-content h2 {
+        font-size: 42px;
+    }
+    .banner-content a {
+        padding: 17px 17px;
+        font-size: 17px;
+    }
+    .about-section h3 {
+        font-size: 18px;
+    }
+    .about-section p {
+        font-size: 12px;
+        padding: 18px 0;
+    }
+    .pricing-head h3 {
+        font-size: 25px;
+    }
+    .pricing-head p {
+        font-size: 17px;
+    }
+    .team-content {
+        padding: 60px 0;
+    }
+    .team-content h2 {
+        font-size: 25px;
+    }
+    .team-membar {
+        width: 100%;
+        margin-right: 0;
+    }
+    .news-latter-content {
+        padding: 32px 0;
+    }
+    .news-latter-content p {
+        font-size: 19px;
+        padding-bottom: 14px;
+    }
+    .news-latter-content h3 {
+        font-size: 33px;
+    }
+    .blog-left {
+        float: none;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .blog-left h3 {
+        font-size: 43px;
+    }
+    .blog-right {
+        float: none;
+        width: 100%;
+    }
+    .blog-right p {
+        font-size: 18px;
+    } 
+    .left {
+        float: none;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .right {
+        float: none;
+        width: 100%;
+    }
+    .user-content p {
+        font-size: 20px;
+    }
+    .user-content h3 {
+        font-size: 29px;
+    }
+    .user-menu p {
+        font-size: 18px;
+    }
+    .btn2 {
+        padding: 15px 29px;
+        font-size: 18px;
+    }
+    .contact-footer p {
+        font-size: 16px;
+    }
+    iframe {
+        height: 400px;
+    }
+    .contact-footer {
+        margin-top: 35px;
+        padding-top: 25px;
+    }
+
+}
+@media all and (max-width:400px) {
+    .banner-section {
+        padding: 150px 0;
+    }
+    .banner-content a {
+        font-size: 18px;
+        display: block;
+        margin-bottom: 14px;
+    }
+    .banner-content h3 {
+        font-size: 18px;
+    }
+    .banner-content h2 {
+        font-size: 29px;
+    }
+    .about-section {
+        padding: 50px 0;
+    }
+    .about-section h3 {
+        font-size: 15px;
+    }
+    .about-section p {
+        font-size: 11px;
+    }
+    .pricing-head h3 {
+        font-size: 22px;
+    }
+    .pricing-list ul li {
+        font-size: 18px;
+        margin: 23px 0;
+    }
+    .pricing-list span {
+        font-size: 25px;
+        width: 44px;
+    }
+    .footer-btn a {
+        padding: 18px 25px;
+        font-size: 18px;
+    }
+    .user-content h3 {
+        font-size: 25px;
+    }
+    .btn2 {
+        padding: 12px 24px;
+        font-size: 14px;
+    }
+    iframe {
+        height: 350px;
+    }
+    .submit-btn {
+        margin-left: 0;
+
+    }
+    .email {
+        margin-bottom: 10px;
+    }
+    .contact-footer {
+        margin-top: 25px;
+        padding-top: 30px;
+    }
+
+}
+@media all and (max-width:381px) {
+    body{
+        overflow-x: hidden;
+    }
+}
+@media all and (max-width:300px) {
+    .pricing-list ul li {
+        font-size: 17px;
+        margin: 21px 0;
+    }
+    .pricing-list span {
+        font-size: 20px;
+        width: 43px;
+    }
+    .footer-btn a {
+        padding: 17px 20px;
+        font-size: 14px;
+
+    }
+    .submit-btn {
+        padding: 16px 40px;
+        margin-left: 0;
+        font-size: 20px;
+    }
+    .user-content p {
+        font-size: 18px;
+    }
+    .user-content h3 {
+        font-size: 20px;
+    }.s-content h3 {
+        font-size: 17px;
+    }
+    .s-content p {
+        font-size: .9rem;
+    }
+    .pricing-list ul li {
+        font-size: 14px;
+        margin: 19px 0;
+    }
+    .pricing-list span {
+        font-size: 18px;
+        width: 37px;
+    }
+    iframe {
+        height: 260px;
+    }
+    .contact-us p {
+        font-size: 19px;
+    }
+    .email {
+        margin-bottom: 10px;
+    }
+    .contact-footer span {
+        font-size: 14px;
+    }
+}
+
+/* end */
